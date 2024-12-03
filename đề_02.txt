@@ -1,0 +1,8 @@
+Đề 2 - chẵn - Phạm Đoàn Minh Hiếu - 102210313
+câu 1: Với file csv cho sẵn.
+a/Thực hiện giảm chiều dữ liệu, và trực quan kết quả.
+b/Thực hiện phân cụm dữ liệu, và trực quan.
+Yêu cầu: Chiều dữ liệu không bé hơn 5. Cụm không bé hơn 4
+câu 2:
+Thực hiện phân lớp, segmentation cho một hình ảnh bất kì, trong đó tối thiểu là 3 lớp. Sử dụng Fuzzy cmean.
+Ảnh tùy úy, có kích cỡ 512x512. Hiển thị kết quả.
